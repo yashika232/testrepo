@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * A simple console application for managing employee details.
+ * A console application for adding, displaying, and searching employees.
  */
 public class EmployeeManager {
     private static final List<Employee> employees = new ArrayList<>();
